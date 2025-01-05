@@ -1,6 +1,6 @@
 ## Setup Linux VM (Amazon Linux / Ubuntu)
 
-1) Login into AWS Cloud account
+1) Login into AWS Cloud account login
 2) Create Linux VM and connect to it using MobaXterm
 
 ## Install Docker In Amazon Linux VM
